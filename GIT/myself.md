@@ -1,0 +1,4 @@
+Name-Deep Narain Sodhi
+Age-22
+Native Place-Mohali
+Currently in Webonise Labs
