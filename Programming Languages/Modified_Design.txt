@@ -1,0 +1,14 @@
+Modification:
+I have created an Array List of Restraunts.
+An object for every restarunt is created which stores the price and item for that restraunt.
+So one object is created for every restraunt.
+Every restraunt have field 
+String and float and rest_id
+ArrayList of String is created to store values of items in one restraunt
+ArrayList of Float is created to store values of price of items in one restraunt.
+
+So Restraunt Looks like 
+class restraunt
+int rest_id;
+ArrayList<String>
+ArrayList<float>
